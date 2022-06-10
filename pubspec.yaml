@@ -1,5 +1,6 @@
 name: mondayhero_starter_project
 description: A new Monday Hero starter project.
+# Repo Link: https://github.com/mondayhero/flutter-starter-project
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -61,7 +62,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/fonts/
-    - assets/translations/
-    - assets/translations/mh_generated/
+    - assets/fonts/ # Custom Font Files - .otf, .ttf , .ttc files
+    - assets/translations/ #Localization Files
+    - assets/translations/mh_generated/ # Localization Files by Monday Hero
     - assets/images/
