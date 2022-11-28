@@ -1,5 +1,6 @@
 /// DO NOT EDIT!!! This is code generated via [@Monday Hero].
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 /// If you want to change [generated text styles]. Override in [../app_text_styles.dart] file.
 /// ```dart
