@@ -33,7 +33,7 @@ dependencies:
 
   flutter_localizations:
     sdk: flutter
-  intl: '^0.18.0'
+  intl: '^0.17.0'
 
   flutter_svg: ^1.0.3 # SVG support
   google_fonts: ^3.0.1 # Google Fonts
@@ -53,6 +53,8 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^1.0.0
 
+dependency_overrides:
+  intl: any
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
