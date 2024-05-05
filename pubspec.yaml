@@ -33,8 +33,8 @@ dependencies:
 
   easy_localization: ^3.0.0 # Multi language
 
-  flutter_svg: ^1.0.3 # SVG support
-  google_fonts: ^3.0.1 # Google Fonts
+  flutter_svg: ^2.0.6 # SVG support
+  google_fonts: ^4.0.4 # Google Fonts
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
